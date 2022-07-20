@@ -1,0 +1,3 @@
+C:\Users\Vano\source\repos\Course_Work\Course_Work\Debug\Course_Work.vcxproj.AssemblyReference.cache
+C:\Users\Vano\source\repos\Course_Work\Course_Work\Debug\CourseWork.MyForm.resources
+C:\Users\Vano\source\repos\Course_Work\Course_Work\Debug\Course_Work.vcxproj.GenerateResource.cache
